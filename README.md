@@ -1,2 +1,4 @@
 # PC-Assemble
-![Uploading image.png…]()
+<p align="center">
+  <img src="images/pc_assemble.jpg" width="600"/>
+</p>
